@@ -2,7 +2,7 @@
 import os
 import openai
 import time
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "YOUR OPEN AI KEY"
 
 #Import LLM wrapper
 from langchain.llms import OpenAI
